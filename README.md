@@ -1,0 +1,1 @@
+Abstract car loan class 
